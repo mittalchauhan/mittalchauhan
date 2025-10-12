@@ -36,7 +36,7 @@ I focus on projects that deliver measurable business value, covering both core d
 
 I am actively seeking roles where I can leverage both my technical depth and business acumen.
 
-* **LinkedIn:** [www.linkedin.com/in/mittal-chauhan](www.linkedin.com/in/mittal-chauhan)
+* **LinkedIn:** [www.linkedin.com/in/mittal-chauhan](https://www.linkedin.com/in/mittal-chauhan-73a178293/)
 * **Email:** mittalchauhan2903@gmail.com
 
 ---
