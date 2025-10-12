@@ -1,6 +1,8 @@
 # Hi, I'm Mittal Chauhan 👋
 
-I am a Data Science and Business Intelligence professional specializing in transforming complex data into actionable strategic insights using **Machine Learning, Python, and dynamic visualization tools like Power BI**.
+I am an **Aspiring Data Scientist** specializing in **Python, Power BI, and Machine Learning** with **6 months of professional internship experience**.
+
+My focus is on transforming complex data into strategic insights. My projects demonstrate end-to-end data pipeline capabilities, from **ETL and NLP** to creating dynamic dashboards. I have a proven ability to deliver results, including **reducing missed calls by 76%** through data analysis.
 
 My portfolio demonstrates end-to-end project management, from initial data cleaning (ETL) to final deployment of models and dashboards.
 
@@ -13,9 +15,9 @@ I focus on projects that deliver measurable business value, covering both core d
 | Project | Core Skills | Business Outcome | Repository Link |
 | :--- | :--- | :--- | :--- |
 | **Sentiment Analysis for Brand Monitoring** | Python, NLP, Scikit-learn, Pandas | Provides competitive intelligence and real-time brand health tracking from social media data. | [View Repo](https://github.com/mittalchauhan/-SENTIMENT-ANALYSIS-FOR-BRAND-MONITORING-AND-COMPETITOR-ANALYSIS) |
+| **Stock Market Analysis & Insights** | Python, Pandas, yFinance, Time Series (Planned) | Foundation for a comprehensive financial data workflow, covering data acquisition and fundamental market metrics. | [View Repo](https://github.com/mittalchauhan/-STOCK-MARKET-ANALYSIS-AND-INSIGHTS) |
 | **Airline Fleet Analysis Dashboard** | Power BI, Power Query (M), Data Modeling | Interactive dashboard supporting strategic planning for fleet renewal, acquisition, and cost management. | [View Repo](https://github.com/mittalchauhan/-AIRLINE-FLEET-ANALYSIS-DASHBOARD) |
 | **Shopping Trend Analytics Dashboard** | Power BI, Power Query (M), Retail Data Analysis | Drives insights on customer demographics and regional pricing strategies to optimize marketing spend. | [View Repo](https://github.com/mittalchauhan/-SHOPPING-TREND-ANALYTICS-DASHBOARD) |
-| **Stock Market Analysis & Insights** | Python, Pandas, yFinance, Time Series (Planned) | Foundation for a comprehensive financial data workflow, covering data acquisition and fundamental market metrics. | [View Repo](https://github.com/mittalchauhan/-STOCK-MARKET-ANALYSIS-AND-INSIGHTS) |
 
 ---
 
@@ -34,7 +36,7 @@ I focus on projects that deliver measurable business value, covering both core d
 
 I am actively seeking roles where I can leverage both my technical depth and business acumen.
 
-* **LinkedIn:** [www.linkedin.com/in/mittal-chauhan](www.linkedin.com/in/mittal-chauhan) **(Ensure this customized link is correct!)**
-* **Email:** mittalchauahn29032@gmail.com
+* **LinkedIn:** [www.linkedin.com/in/mittal-chauhan](www.linkedin.com/in/mittal-chauhan)
+* **Email:** mittalchauhan2903@gmail.com
 
 ---
