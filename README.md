@@ -1,8 +1,8 @@
 # Hi, I'm Mittal Chauhan 👋
 
-I am an **Aspiring Data Scientist** specializing in **Python, Power BI, SQL, and Machine Learning**. I possess **conceptual expertise** in advanced AI/ML topics (**NLP, RL, DL**) and **Real-Time Data Engineering (Kafka, StarRocks, Hadoop)**.
+I am an **Aspiring Data Scientist** specializing in **Python, Power BI, and Advanced Machine Learning (ML/RL, NLP, DL)** with **6 months of professional internship experience**.
 
-My projects bridge theoretical knowledge with high-impact results, including a **76% reduction in missed calls** and **75% automation of manual ETL workflows**. I am dedicated to building and optimizing data solutions.
+My core strength is bridging advanced **Data Engineering (Kafka, StarRocks, Hadoop)** with actionable analytics. I deliver quantifiable results, including a **76% reduction in missed calls** and **75% automation of manual ETL workflows**. I am dedicated to turning academic knowledge into production-ready solutions.
 
 ---
 
@@ -10,7 +10,7 @@ My projects bridge theoretical knowledge with high-impact results, including a *
 
 | Category | Tools & Libraries |
 | :--- | :--- |
-| **Data Science / ML** | Python, **Reinforcement Learning (RL), Deep Learning (DL), NLP, CV** (Computer Vision), CNN, KNN, NLTK |
+| **Data Science / ML** | Python, **Reinforcement Learning (RL), NLP, Computer Vision (CV), Deep Learning (DL)**, Scikit-learn, CNN, KNN, NLTK |
 | **Data Engineering** | **Kafka, Debezium (CDC), StarRocks** (OLAP), **Apache Spark, Hadoop, AWS (Athena, RDS)**, MySQL, Docker, Databricks |
 | **BI & Theory** | **Power BI** (DAX, Power Query/M), Tableau, **Research Methodologies, Cloud Computing (Theory)**, SQL |
 
@@ -33,7 +33,7 @@ My projects bridge theoretical knowledge with high-impact results, including a *
 | :--- | :--- | :--- | :--- |
 | **Elements of AI** (2 ECTS) | University of Helsinki | AI Fundamentals, Probability, Logic | [![Completed](https://img.shields.io/badge/Certification-Completed-479A91?style=flat-square)](https://certificates.mooc.fi/validate/ng6pncg87lt) |
 | **Intro to Data Analytics** | IBM / Coursera | Statistical Reporting, Data Analytics Lifecycle | [![Completed](https://img.shields.io/badge/Certification-Completed-479A91?style=flat-square)](https://coursera.org/verify/QQRTC89JYOO4) |
-| **Microsoft Power BI Badge** | Professional Application | Dashboarding, DAX, Power Query | [![Skills-Validated](https://img.shields.io/badge/Microsoft%20Power%20BI-Professional%20Application-2A82C7?style=flat-square)](https://www.linkedin.com/in/mittal-chauhan-73a178293/) |
+| **Microsoft Power BI** | Skills Reinforced in Internship | Dashboarding, DAX, Power Query | [![Skills-Validated](https://img.shields.io/badge/Power%20BI-Skills%20Validated-2A82C7?style=flat-square)](https://learn.microsoft.com/api/achievements/share/en-us/MittalChauhan-3833/9XCHFDBU?sharingId=92F6B30D1772CA79) |
 
 ---
 
