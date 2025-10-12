@@ -1,42 +1,43 @@
 # Hi, I'm Mittal Chauhan 👋
 
-I am an **Aspiring Data Scientist** specializing in **Python, Power BI, and Machine Learning** with **6 months of professional internship experience**.
+I am an **Aspiring Data Scientist** specializing in **Python, Power BI, SQL, and Machine Learning**. I possess **conceptual expertise** in advanced AI/ML topics (**NLP, RL, DL**) and **Real-Time Data Engineering (Kafka, StarRocks, Hadoop)**.
 
-My focus is on transforming complex data into strategic insights. My projects demonstrate end-to-end data pipeline capabilities, from **ETL and NLP** to creating dynamic dashboards. I have a proven ability to deliver results, including **reducing missed calls by 76%** through data analysis.
+My projects bridge theoretical knowledge with high-impact results, including a **76% reduction in missed calls** and **75% automation of manual ETL workflows**. I am dedicated to building and optimizing data solutions.
 
-My portfolio demonstrates end-to-end project management, from initial data cleaning (ETL) to final deployment of models and dashboards.
+---
+
+## 🛠️ My Core Technical Stack
+
+| Category | Tools & Libraries |
+| :--- | :--- |
+| **Data Science / ML** | Python, **Reinforcement Learning (RL), Deep Learning (DL), NLP, CV** (Computer Vision), CNN, KNN, NLTK |
+| **Data Engineering** | **Kafka, Debezium (CDC), StarRocks** (OLAP), **Apache Spark, Hadoop, AWS (Athena, RDS)**, MySQL, Docker, Databricks |
+| **BI & Theory** | **Power BI** (DAX, Power Query/M), Tableau, **Research Methodologies, Cloud Computing (Theory)**, SQL |
 
 ---
 
 ## 🚀 Featured Projects & Portfolio
 
-I focus on projects that deliver measurable business value, covering both core data science and executive-level reporting.
-
-| Project | Core Skills | Business Outcome | Repository Link |
+| Project | Core Technical Skills | Practical Impact / Business Outcome | Repository |
 | :--- | :--- | :--- | :--- |
-| **Sentiment Analysis for Brand Monitoring** | Python, NLP, Scikit-learn, Pandas | Provides competitive intelligence and real-time brand health tracking from social media data. | [View Repo](https://github.com/mittalchauhan/-SENTIMENT-ANALYSIS-FOR-BRAND-MONITORING-AND-COMPETITOR-ANALYSIS) |
-| **Stock Market Analysis & Insights** | Python, Pandas, yFinance, Time Series (Planned) | Foundation for a comprehensive financial data workflow, covering data acquisition and fundamental market metrics. | [View Repo](https://github.com/mittalchauhan/-STOCK-MARKET-ANALYSIS-AND-INSIGHTS) |
-| **Airline Fleet Analysis Dashboard** | Power BI, Power Query (M), Data Modeling | Interactive dashboard supporting strategic planning for fleet renewal, acquisition, and cost management. | [View Repo](https://github.com/mittalchauhan/-AIRLINE-FLEET-ANALYSIS-DASHBOARD) |
-| **Shopping Trend Analytics Dashboard** | Power BI, Power Query (M), Retail Data Analysis | Drives insights on customer demographics and regional pricing strategies to optimize marketing spend. | [View Repo](https://github.com/mittalchauhan/-SHOPPING-TREND-ANALYTICS-DASHBOARD) |
+| **Sentiment Analysis for Brand Monitoring** | Python, **NLP, Scikit-learn, Pandas** | Trained classification model on a **1.6M row dataset** to provide real-time brand health monitoring and actionable competitive intelligence. | [View Repo](https://github.com/mittalchauhan/-SENTIMENT-ANALYSIS-FOR-BRAND-MONITORING-AND-COMPETITOR-ANALYSIS) |
+| **Stock Market Analysis & Insights** | Python, Pandas, **yFinance, Time Series** | Built a complete financial data workflow to calculate and visualize key metrics (volatility, returns) from external APIs for predictive scoping. | [View Repo](https://github.com/mittalchauhan/-STOCK-MARKET-ANALYSIS-AND-INSIGHTS) |
+| **Airline Fleet Analysis Dashboard** | **Power BI** (DAX, M), **Data Modeling** | High-utility dashboard developed to support strategic CAPEX decisions by modeling acquisition costs and future fleet composition. | [View Repo](https://github.com/mittalchauhan/-AIRLINE-FLEET-ANALYSIS-DASHBOARD) |
+| **Shopping Trend Analytics Dashboard** | **Power BI, Power Query (M), Retail Analytics** | Dashboard delivering **customer segmentation** and insights on purchase behavior to optimize marketing budgets and regional pricing. | [View Repo](https://github.com/mittalchauhan/-SHOPPING-TREND-ANALYTICS-DASHBOARD) |
 
 ---
 
-## 🛠️ My Technical Stack
+## 🎓 Certifications & Advanced Training
 
-| Category | Tools & Libraries |
-| :--- | :--- |
-| **Data Science / ML** | Python, Scikit-learn, **NLP**, Time Series, ETL (Pandas, NumPy) |
-| **Business Intelligence** | **Power BI** (Power Query / M), Data Visualization (Matplotlib, Seaborn, Plotly) |
-| **Core Tools** | Jupyter Notebook, Git, Version Control |
-| **Domain Expertise** | Financial Data Analysis, Retail/Supply Chain Analytics |
+| Name | Issuer | Focus Area | Badge / Status |
+| :--- | :--- | :--- | :--- |
+| **Elements of AI** (2 ECTS) | University of Helsinki | AI Fundamentals, Probability, Logic | [![Completed](https://img.shields.io/badge/Certification-Completed-479A91?style=flat-square)](https://certificates.mooc.fi/validate/ng6pncg87lt) |
+| **Intro to Data Analytics** | IBM / Coursera | Statistical Reporting, Data Analytics Lifecycle | [![Completed](https://img.shields.io/badge/Certification-Completed-479A91?style=flat-square)](https://coursera.org/verify/QQRTC89JYOO4) |
+| **Microsoft Power BI Badge** | Professional Application | Dashboarding, DAX, Power Query | [![Skills-Validated](https://img.shields.io/badge/Microsoft%20Power%20BI-Professional%20Application-2A82C7?style=flat-square)](https://www.linkedin.com/in/mittal-chauhan-73a178293/) |
 
 ---
 
-## 🔗 Let's Connect
-
-I am actively seeking roles where I can leverage both my technical depth and business acumen.
+## 🔗 Connect with Me
 
 * **LinkedIn:** [www.linkedin.com/in/mittal-chauhan](https://www.linkedin.com/in/mittal-chauhan-73a178293/)
 * **Email:** mittalchauhan2903@gmail.com
-
----
