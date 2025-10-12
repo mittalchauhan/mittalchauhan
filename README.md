@@ -31,7 +31,7 @@ My core strength is bridging advanced **Data Engineering (Kafka, StarRocks, Hado
 
 | Name | Issuer | Focus Area | Badge / Status |
 | :--- | :--- | :--- | :--- |
-| **Elements of AI** (2 ECTS) | University of Helsinki | AI Fundamentals, Probability, Logic | [![Completed](https://img.shields.io/badge/Certification-Completed-479A91?style=flat-square)](https://certificates.mooc.fi/validate/ng6pncg87lt) |
+| **Elements of AI** (2 ECTS) | University of Helsinki | AI Fundamentals, Probability, Logic | [![Completed](https://img.shields.io/badge/Certification-Completed-479A91?style=flat-square)](https://certificates.mooc.fi/validate/ng6pncg87lf) |
 | **Intro to Data Analytics** | IBM / Coursera | Statistical Reporting, Data Analytics Lifecycle | [![Completed](https://img.shields.io/badge/Certification-Completed-479A91?style=flat-square)](https://coursera.org/verify/QQRTC89JYOO4) |
 | **Microsoft Power BI** | Skills Reinforced in Internship | Dashboarding, DAX, Power Query | [![Skills-Validated](https://img.shields.io/badge/Power%20BI-Skills%20Validated-2A82C7?style=flat-square)](https://learn.microsoft.com/api/achievements/share/en-us/MittalChauhan-3833/9XCHFDBU?sharingId=92F6B30D1772CA79) |
 
