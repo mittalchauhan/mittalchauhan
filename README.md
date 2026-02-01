@@ -1,4 +1,4 @@
-# 🗂️ **Data Science Research & Strategic Portfolio**
+# ⚡**Data Science Research & Strategic Portfolio**
 
 Welcome to my centralized research hub. This repository contains specialized projects focusing on **Multi-Modal Risk Fusion**, **Transformer Architectures**, **Explainable AI (XAI)**, and **Strategic Market Analytics**.
 
@@ -6,7 +6,7 @@ My work focuses on bridging foundational machine learning research with actionab
 
 ---
 
-## ⚡**Project Strategic Matrix**
+## 🗂️**Project Strategic Matrix**
 
 | Rank | Project Name | Research Category | Primary Tech Stack | Repository Link |
 | :--- | :--- | :--- | :--- | :--- |
