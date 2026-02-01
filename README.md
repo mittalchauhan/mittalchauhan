@@ -1,6 +1,6 @@
-# 🚀 Data Science Research & Strategic Portfolio
+# **Data Science Research & Strategic Portfolio**
 
-Welcome to my centralized research hub. This repository contains 10 specialized projects focusing on **Multi-Modal Risk Fusion**, **Transformer Architectures**, **Explainable AI (XAI)**, and **Strategic Market Analytics**.
+Welcome to my centralized research hub. This repository contains specialized projects focusing on **Multi-Modal Risk Fusion**, **Transformer Architectures**, **Explainable AI (XAI)**, and **Strategic Market Analytics**.
 
 My work focuses on bridging foundational machine learning research with actionable corporate strategy, emphasizing high-fidelity diagnostics and evidence-based decision-making.
 
@@ -25,36 +25,37 @@ My work focuses on bridging foundational machine learning research with actionab
 
 ## 🔬 Selected Research Highlights
 
-### 🛡️ 01. Sentinel Gold: Cyber-Physical Fusion
-* **Strategic Problem:** Modern security suffers from disconnected digital and physical data silos.
-* **Research Solution:** A fusion engine that correlates high-velocity threat feeds (**Kafka**) with live CCTV human detection via **PySpark**.
+### 🛡️ Sentinel Gold: Cyber-Physical Fusion
+* **Strategic Problem:** Modern security suffers from disconnected digital threat feeds and physical surveillance silos.
+* **Research Solution:** A fusion engine correlating high-velocity **Kafka** indicators with live CCTV telemetry via **PySpark**.
+* **Outcome:** Leverages GPT-2 to generate automated executive summaries, bridging the gap between technical telemetry and management-level reporting.
 
-### 🧠 02. ELS-Pulse: Sarcasm-Aware Brand Intelligence
-* **Strategic Problem:** Sarcasm causes "sentiment flipping," leading to inaccurate corporate brand audits.
-* **Research Solution:** A **Voting Ensemble** (87.1% accuracy) with a rule-based sarcasm correction layer.
-* **Analytical UI:** Features **Neural Probability Heatmaps** to visualize token-level model decisions.
+### 🧠 ELS-Pulse: Sarcasm-Aware Brand Intelligence
+* **Strategic Problem:** Linguistic nuances like sarcasm cause "sentiment flipping," leading to high error rates in automated brand audits.
+* **Research Solution:** A **Voting Ensemble** (87.1% accuracy) utilizing custom sarcasm-aware heuristics to identify linguistic nuances.
+* **Outcome:** Provides high-fidelity sentiment auditing through Neural Probability Heatmapping and TF-IDF feature significance analysis.
 
-### 📊 03. InsuraPulse: Explainable AI for Risk
-* **Strategic Problem:** "Black box" models in insurance prevent actuarial transparency and trust.
-* **Research Solution:** Utilized **SHAP (SHapley Additive exPlanations)** to decode non-linear drivers in medical insurance premiums.
-* **Impact:** Provides clear visual evidence for risk-loading factors, ensuring model auditability.
+### 📊 InsuraPulse: Explainable AI for Risk
+* **Strategic Problem:** The "Black Box" nature of complex regression models prevents actuarial transparency and stakeholder trust.
+* **Research Solution:** Applied **SHAP (SHapley Additive exPlanations)** to isolate and interpret non-linear drivers in medical premiums.
+* **Outcome:** Delivers transparent, auditable models by normalizing skewed residual patterns through Log-Linear transformations.
 
-### 📈 04. QuantPro: Quantitative Signal Processing
-* **Strategic Problem:** Financial research requires high-velocity pipelines for real-time signal extraction.
+### 📈 QuantPro: Quantitative Signal Processing
+* **Strategic Problem:** Financial research requires low-latency pipelines capable of extracting signals from high-velocity data.
 * **Research Solution:** A robust pipeline utilizing **real-time yfinance data** to monitor market volatility and price-action correlations.
 
-### 🧪 08. LLM-Foundations: Transformer Deconstruction
-* **Strategic Problem:** Verifying the mathematical mechanics and convergence of modern LLM architectures.
-* **Research Solution:** A ground-up **PyTorch implementation** of a GPT-style model. 
-* **Validation:** Monitored mathematical convergence and visualized learned embeddings in a **3D Latent Space**.
+### 🧪 LLM-Foundations: Transformer Deconstruction
+* **Strategic Problem:** Verifying the mathematical mechanics, convergence stability, and latent organization of modern LLM architectures.
+* **Research Solution:** A ground-up **PyTorch implementation** covering BPE tokenization, Multi-head Self-Attention, and Layer Normalization.
+* **Validation:** Verified through mathematical monitoring of Perplexity and Loss, ensuring foundational architectural stability.
 
 ---
 
 ## 🛠️ Technical Competencies
 
-* **Modeling:** Transformer Architecture, Matrix Factorization (SVD), Ensemble Learning.
-* **Statistics:** Explainable AI (SHAP), Z-Score/Lift Analysis, Neural Probability Mapping.
-* **Engineering:** Apache Spark, Kafka, Real-time APIs, Power Query (M/ETL), Flask.
+* **Modeling:** Transformer Architecture, Matrix Factorization (SVD), Ensemble Learning, BPE Tokenization.
+* **Statistics:** Explainable AI (SHAP), Z-Score/Lift Analysis, Neural Probability Mapping, Feature Significance (TF-IDF).
+* **Engineering:** Apache Spark, Kafka, Real-time APIs (yfinance), Power Query (M/ETL), Flask.
 
 ---
 
