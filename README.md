@@ -6,7 +6,7 @@ My work focuses on bridging foundational machine learning research with actionab
 
 ---
 
-## 📊 Project Strategic Matrix
+## **Project Strategic Matrix**
 
 | Rank | Project Name | Research Category | Primary Tech Stack | Repository Link |
 | :--- | :--- | :--- | :--- | :--- |
@@ -28,7 +28,6 @@ My work focuses on bridging foundational machine learning research with actionab
 ### 🛡️ 01. Sentinel Gold: Cyber-Physical Fusion
 * **Strategic Problem:** Modern security suffers from disconnected digital and physical data silos.
 * **Research Solution:** A fusion engine that correlates high-velocity threat feeds (**Kafka**) with live CCTV human detection via **PySpark**.
-* **Visual Insight:** ![Sentinel Preview](assets/sentinel_preview.png)
 
 ### 🧠 02. ELS-Pulse: Sarcasm-Aware Brand Intelligence
 * **Strategic Problem:** Sarcasm causes "sentiment flipping," leading to inaccurate corporate brand audits.
